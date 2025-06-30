@@ -1,3 +1,19 @@
 title: 我的博客
 description: 使用 Jekyll 和 GitHub Pages
 theme: minima
+title: "我的网站"
+description: "个人博客与作品集"
+url: "https://jg970408.github.io" # 替换为您的用户名
+baseurl: "" # 如果是项目主页，使用"/repository-name"
+
+theme: minima
+
+# 作者信息
+author:
+  name: "Fang"
+  email: "your@email.com"
+
+# 构建设置
+markdown: kramdown
+plugins:
+  - jekyll-feed
