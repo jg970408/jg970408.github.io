@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 我的博客
-background: /assets/images/bg.jpg  # 背景图路径
+background: /assets/images/2025_01_31_17_15_IMG_4457.HEIC  # 背景图路径
 ---
 
 <style>
